@@ -32,3 +32,6 @@ For the configuration, you can change `config.py` constants.
 - [Binance Futures Trading Bot](https://github.com/erfaniaa/binance-futures-trading-bot)
 - [Binance Spot Trading Bot](https://github.com/smzerehpoush/binance-spot-trading-bot)
 - [Crypto Trading Strategy Backtester](https://github.com/Erfaniaa/crypto-trading-strategy-backtester)
+
+
+vgf
